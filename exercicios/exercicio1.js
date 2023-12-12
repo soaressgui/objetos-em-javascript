@@ -2,7 +2,11 @@
 //Este objeto deve ter propriedades como modelo, ano, cor 
 
 const carro = {
-    modelo: ABC1234,
+    modelo: "abcijkl",
     ano: 2015,
-    cor: vermelho,
+    cor: "vermelho",
 };
+
+console.log(carro);
+
+// node exercicios/exercicio1.js 
